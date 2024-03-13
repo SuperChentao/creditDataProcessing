@@ -1,0 +1,11 @@
+,surrogate key,purpose
+0,1,radio_tv
+1,2,education
+2,3,furniture_equipment
+3,4,car_new
+4,5,car_used
+5,6,business
+6,7,domestic_applience
+7,8,repairs
+8,9,retraining
+9,10,others
